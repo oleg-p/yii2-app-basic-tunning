@@ -1,0 +1,6 @@
+/* 
+    Created on : 10.08.2014, 11:23:34
+    Author     : Oleg Pustovalov <oleg@portalnews.ru>
+*/
+/* Добавление в форме к полю отметки Обязательно (звёздочка) */
+div.required label:after { content: " *"; color: red;}
