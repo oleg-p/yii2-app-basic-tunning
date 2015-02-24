@@ -1,7 +1,7 @@
 {
-    "name": "yiisoft/yii2-app-basic",
-    "description": "Yii 2 Basic Application Template",
-    "keywords": ["yii2", "framework", "basic", "application template"],
+    "name": "oleg-p/yii2-app-basic-tunning",
+    "description": "Tunning for Yii 2 Basic Application Template",
+    "keywords": ["yii2", "framework", "basic", "application template", "tunning basic template"],
     "homepage": "http://www.yiiframework.com/",
     "type": "project",
     "license": "BSD-3-Clause",
